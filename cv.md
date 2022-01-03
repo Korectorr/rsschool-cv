@@ -5,4 +5,4 @@
 
 *About me:* Just starting my way in programming. 
  #### Skills
- HTML, CSS, Markdown 
+ HTML, CSS, Markdown, git
